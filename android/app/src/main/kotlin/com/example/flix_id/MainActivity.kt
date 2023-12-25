@@ -1,4 +1,4 @@
-package com.example.flix_id
+package com.khoerodin.flix_id
 
 import io.flutter.embedding.android.FlutterActivity
 
