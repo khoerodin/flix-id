@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "301566690016",
+    "project_id": "flix-id-b3e45",
+    "storage_bucket": "flix-id-b3e45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301566690016:android:fa1cec9b62ac9beff34685",
+        "android_client_info": {
+          "package_name": "com.khoerodin.flix_id"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1zwOcZ25jz92q4cz1wvhZ7tMguWgVJRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
